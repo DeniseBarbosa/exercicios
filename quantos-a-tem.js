@@ -6,7 +6,7 @@ for(let letra of palavra){
         quantidade++;
     }
 }
-//console.log(quantidade);
+console.log(quantidade);
 
 for (let i = 10; i >= 0; i--){
    // console.log(i);
@@ -19,5 +19,5 @@ while( numero <= 10){
 }
 
 for (let numeroPar = 2; numeroPar <=10; numeroPar = numeroPar + 2) {
-    console.log(numeroPar);
+   // console.log(numeroPar);
 }

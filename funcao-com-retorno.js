@@ -9,4 +9,4 @@ function determinarFaixaEtaria(idade){
     }
 };
  
-console.log(determinarFaixaEtaria(60));
+console.log(determinarFaixaEtaria(15));
